@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Eusociality#In_humans
 Further information: Group selection
 An early 21st century debate focused on whether humans are prosocial or eusocial.[44] Edward O. Wilson called humans eusocial apes, arguing for similarities to ants, and observing that early hominins cooperated to rear their children while other members of the same group hunted and foraged.[3] Wilson argued that through cooperation and teamwork, ants and humans form superorganisms.[45] Wilson's claims were vigorously rejected by critics of group selection theory, which grounded Wilson's argument,[3][46][47] and also because human reproductive labor is not divided between castes.[46]"
 
-Technological Solutionism should not adopt disproven concepts of group selection, but understands the collective intelligence of a globalized world:
+Technological Solutionism should not adopt disproven concepts of group selection nor of inequitable superorganisms, but first understand the collective intelligence of a globalized world:
 
 https://en.wikipedia.org/wiki/Collective_intelligence
 Collective intelligence (CI) is shared or group intelligence (GI) that emerges from the collaboration, collective efforts, and competition of many individuals and appears in consensus decision making. The term appears in sociobiology, political science and in context of mass peer review and crowdsourcing applications. It may involve consensus, social capital and formalisms such as voting systems, social media and other means of quantifying mass activity.[1] Collective IQ is a measure of collective intelligence, although it is often used interchangeably with the term collective intelligence. Collective intelligence has also been attributed to bacteria and animals.[2]
