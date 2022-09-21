@@ -1,5 +1,7 @@
 Do Ant Colonies Dream of Economic Systems?
 
+https://en.wikipedia.org/wiki/Ant_colony
+
 https://en.wikipedia.org/wiki/Superorganism#Concept
 Concept
 The term superorganism is used most often to describe a social unit of eusocial animals, where division of labour is highly specialised and where individuals are not able to survive by themselves for extended periods. Ants are the best-known example of such a superorganism. A superorganism can be defined as "a collection of agents which can act in concert to produce phenomena governed by the collective",[2] phenomena being any activity "the hive wants" such as ants collecting food and avoiding predators,[3][4] or bees choosing a new nest site.[5] In challenging environments, micro organisms collaborate and evolve together to process unlikely sources of nutrients such as methane. This process called syntrophy ("eating together") might be linked to the evolution of eukaryote cells and involved in the emergence or maintenance of life forms in challenging environments on Earth and possibly other planets. [6] Superorganisms tend to exhibit homeostasis, power law scaling, persistent disequilibrium and emergent behaviours.[7]
