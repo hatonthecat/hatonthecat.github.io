@@ -1,5 +1,3 @@
-# hatonthecat.github.io
-
 Do Ant Colonies Dream of Economic Systems?
 
 https://en.wikipedia.org/wiki/Superorganism#Concept
