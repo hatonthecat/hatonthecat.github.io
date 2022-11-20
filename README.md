@@ -4,9 +4,9 @@ https://en.wikipedia.org/wiki/Yaws_(web_server)
 
 "https://web.archive.org/web/20070118063239/http://www.sics.se/~joe/apachevsyaws.html "Machine 2 requests 20 KByte pages from machine 1. It does this in tight a loop requesting a new page as soon as it has received a page from the server." 
 
-I installed an Apache Server on a Raspberry Pi 3B+ with No-ip.com, MariaDB, php admin webpage less than 500 bytes.![image](https://user-images.githubusercontent.com/76194453/202923239-9fcbf9da-ec33-41fb-83b3-2b0890834f57.png)  Ideally, it would be used to host a BBS=-like system, but with additional features. 
+I installed an Apache Server on a Raspberry Pi 3B+ with Noip.com, MariaDB, php admin webpage less than 500 bytes.![image](https://user-images.githubusercontent.com/76194453/202923239-9fcbf9da-ec33-41fb-83b3-2b0890834f57.png)  Ideally, it would be used to host a BBS=-like system, but with additional features. 
 
-
+The website is hosted at: http://buoy.hopto.org/
 A couple tutorials were used: 
 
 https://peppe8o.com/lamp-server-on-raspberry-pi/
