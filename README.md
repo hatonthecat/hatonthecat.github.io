@@ -23,3 +23,8 @@ read from that directory. So how do you do that?
 sudo chown pi:www-data /var/www/html
 
 sudo chmod 755 /var/www/html "
+
+
+Another goal of this project is to explore hosting simple servers on a microcontroller, with an OS such as FreeRTOS or Zephyr: https://www.freertos.org/FreeRTOS-Plus/FreeRTOS_Plus_TCP/TCP_Networking_Tutorial.html
+
+https://elinux.org/images/1/18/Rissanen.pdf The Apache Server on my Raspbian OS, using a Raspberry Pi 3+ uses just under 200MB of RAM to host a couple 512byte pages. More than likely, that much RAM is not needed, and could likely be done on just 2MB of RAM or less. Hosting a Gopher or Gemini server may be a simpler protocol, although all internet protocols will be explored. I haven't hosted an HTTP site in over 15 years, so give me a break :) I actually wrote a lot more on that page. It was called Witsy.com, and it was hosted on https://www.knightsbridge.net/index.html for a year or two. I used CuteFTP or Filezilla to upload static pages, similar to the pages I have now, except that I host the server. I would have kept it but I graduated college and I had other careers to pursue.
