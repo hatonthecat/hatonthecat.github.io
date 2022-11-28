@@ -13,6 +13,8 @@ https://peppe8o.com/lamp-server-on-raspberry-pi/
 
 the above tutorial is thorough, although it took 3-4 tries to install MariaDB. In terminal, it could not fetch all the packages, so I retried without issue. Possibly the server or wifi connection was not good. 
 
+Edit: I removed MyAdminPHP and MariaDB since i was only serving static pages.
+
 Also, permissions to edit and remove /var/www/html and replace it with my own page is listed here:
 
 https://forums.raspberrypi.com/viewtopic.php?t=297575 
